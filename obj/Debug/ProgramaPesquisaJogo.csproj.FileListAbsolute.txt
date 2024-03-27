@@ -1,0 +1,10 @@
+C:\Users\erosm\source\repos\ProgramaPesquisaJogo\bin\Debug\ProgramaPesquisaJogo.exe.config
+C:\Users\erosm\source\repos\ProgramaPesquisaJogo\bin\Debug\ProgramaPesquisaJogo.exe
+C:\Users\erosm\source\repos\ProgramaPesquisaJogo\bin\Debug\ProgramaPesquisaJogo.pdb
+C:\Users\erosm\source\repos\ProgramaPesquisaJogo\obj\Debug\ProgramaPesquisaJogo.csproj.AssemblyReference.cache
+C:\Users\erosm\source\repos\ProgramaPesquisaJogo\obj\Debug\ProgramaPesquisaJogo.Form1.resources
+C:\Users\erosm\source\repos\ProgramaPesquisaJogo\obj\Debug\ProgramaPesquisaJogo.Properties.Resources.resources
+C:\Users\erosm\source\repos\ProgramaPesquisaJogo\obj\Debug\ProgramaPesquisaJogo.csproj.GenerateResource.cache
+C:\Users\erosm\source\repos\ProgramaPesquisaJogo\obj\Debug\ProgramaPesquisaJogo.csproj.CoreCompileInputs.cache
+C:\Users\erosm\source\repos\ProgramaPesquisaJogo\obj\Debug\ProgramaPesquisaJogo.exe
+C:\Users\erosm\source\repos\ProgramaPesquisaJogo\obj\Debug\ProgramaPesquisaJogo.pdb
